@@ -14,4 +14,4 @@ I have learnt a lot in his class, phong shading, BVH, etc. Also I need to give s
 
  - [BVH from my friend Zhanbo](https://github.com/skszb/TracerHW)
  - [AABB Intersection](https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes/ray-box-intersection)
-
+ - [Fresnel Equations](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel)
