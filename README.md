@@ -8,7 +8,19 @@ a virable. This is just one of those obstacles. Another I would like to mention 
 fun to balance time for ACT exercise and for this ray tracer. I really appreciate TA Yiwen who provided me with a lot of useful information. I am just too shy to ask professor for help but
 I have learnt a lot in his class, phong shading, BVH, etc. Also I need to give sincere thanks to my friend Zhanbo who helped me with many problems I had encountered.
 
+Here are some demo pictures rendered by my ray tracer
 
+I. Simple shell 
+
+II. A bunch of steel balls
+
+III. Glass balls above mounts to test refraction
+
+IV. Teapot 1 for less details rendering
+
+V. Teapot 2 for more details rendering
+
+VI. Teapot 3 for refraction test
 
 ## Acknowledgements
 
