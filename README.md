@@ -14,6 +14,8 @@ I. Simple shell
 
 i) + Diffuse
 
+![](shells_Dif.png)
+
 II. A bunch of steel balls
 
 III. Glass balls above mounts to test refraction
