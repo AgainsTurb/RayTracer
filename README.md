@@ -150,6 +150,8 @@ VI. Teapot 3 for refraction test -I literally have no idea what this scene looks
 
 ![](refract_BVH.png)
 
+## Confusing Facts
+
 ## Acknowledgements
 
  - [BVH from my friend Zhanbo](https://github.com/skszb/TracerHW)
