@@ -13,7 +13,6 @@ Here are some demo pictures rendered by my ray tracer
 I. Simple shell 
 
 i) + Diffuse
-![](/OutputImage/shells_Dif.ppm)
 
 II. A bunch of steel balls
 
