@@ -12,17 +12,21 @@ Here are some demo pictures rendered by my ray tracer
 
 I. Simple shell 
 
-i) + Diffuse
+1) + Diffuse
 
 ![](shells_Dif.png)
 
-ii) + Specular
+2) + Specular -just slightly different from diffuse
 
 ![](shells_Spec.png)
 
-iii) + Ambient
+3) + Ambient -hardly different from specular
 
 ![](shells_Amb.png)
+
+4) + Shadow -add a little bit realistic
+
+![](shells_Shodow.png)
 
 II. A bunch of steel balls
 
