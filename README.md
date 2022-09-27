@@ -82,6 +82,26 @@ III. Glass balls above mounts to test refraction
 
 IV. Teapot 1 for less details rendering
 
+1) + Diffuse
+
+![](teapot_Dif.png)
+
+2) + Specular
+
+![](teapot_Spec.png)
+
+3) + Ambient
+
+![](teapot_Amb.png)
+
+4) + Shadow
+
+![](teapot_Shadow.png)
+
+5) + Reflection
+
+![](teapot_BVH.png)
+
 V. Teapot 2 for more details rendering
 
 VI. Teapot 3 for refraction test
