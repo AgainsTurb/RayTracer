@@ -11,6 +11,8 @@ I have learnt a lot in his class, phong shading, BVH, etc. Also I need to give s
 Here are some demo pictures rendered by my ray tracer
 
 I. Simple shell 
+i) + Diffuse
+![](/RayTracer/OutputImage/shells_Dif.ppm)
 
 II. A bunch of steel balls
 
