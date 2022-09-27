@@ -16,6 +16,14 @@ i) + Diffuse
 
 ![](shells_Dif.png)
 
+ii) + Specular
+
+![](shells_Spec.png)
+
+iii) + Ambient
+
+![](shells_Amb.png)
+
 II. A bunch of steel balls
 
 III. Glass balls above mounts to test refraction
