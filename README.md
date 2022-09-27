@@ -26,7 +26,7 @@ I. Simple shell
 
 4) + Shadow -add a little bit realistic
 
-![](shells_Shodow.png)
+![](shells_Shadow.png)
 
 II. A bunch of steel balls
 
