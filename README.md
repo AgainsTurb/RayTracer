@@ -152,6 +152,10 @@ VI. Teapot 3 for refraction test -I literally have no idea what this scene looks
 
 ## Confusing Facts
 
+Actually when I thought there is nothing wrong with that code, I encountered something unexpected. When I rendered gears, it gave me this:
+
+![](gears_BVH.png)
+
 ## Acknowledgements
 
  - [BVH from my friend Zhanbo](https://github.com/skszb/TracerHW)
