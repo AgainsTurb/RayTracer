@@ -58,6 +58,28 @@ III. Glass balls above mounts to test refraction
 
 1) + Diffuse
 
+![](mount_Dif.png)
+
+2) + Specular
+
+![](mount_Spec.png)
+
+3) + Ambient
+
+![](mount_Amb.png)
+
+4) + Shadow -maybe it's just hard shadow that looks weird
+
+![](mount_Shadow.png)
+
+5) + reflection 
+
+![](mount_Refl.png)
+
+6) + Refraction
+
+![](mount_BVH.png)
+
 IV. Teapot 1 for less details rendering
 
 V. Teapot 2 for more details rendering
