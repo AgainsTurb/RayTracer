@@ -56,6 +56,8 @@ II. A bunch of steel balls
 
 III. Glass balls above mounts to test refraction
 
+1) + Diffuse
+
 IV. Teapot 1 for less details rendering
 
 V. Teapot 2 for more details rendering
