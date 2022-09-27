@@ -28,6 +28,10 @@ I. Simple shell
 
 ![](shells_Shadow.png)
 
+5) + Reflection -max bounce 5
+
+![](shells_BVH.png)
+
 II. A bunch of steel balls
 
 III. Glass balls above mounts to test refraction
