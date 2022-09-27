@@ -124,7 +124,31 @@ V. Teapot 2 for more details rendering
 
 ![](teapot_1_BVH.png)
 
-VI. Teapot 3 for refraction test
+VI. Teapot 3 for refraction test -I literally have no idea what this scene looks like, so from my perspective I just upload these images, not knowing whether they're correct or not. Just for fun if I may :)
+
+1) + Diffuse
+
+![](refract_Dif.png)
+
+2) + Specular
+
+![](refract_Spec.png)
+
+3) + Ambient
+
+![](refract_Amb.png)
+
+4) + Shadow
+
+![](refract_Shadow.png)
+
+5) + Reflection
+
+![](refract_Refl.png)
+
+6) + Refraction
+
+![](refract_BVH.png)
 
 ## Acknowledgements
 
