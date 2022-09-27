@@ -156,6 +156,12 @@ Actually when I thought there is nothing wrong with that code, I encountered som
 
 ![](gears_BVH.png)
 
+However, I think this image is close to something right: (provided by my friend)
+
+![](gears.png)
+
+I have no idea what's wrong with my code. If there are some fundamental errors, my code should not have worked so smoothly on other projects. I've tried to search the Internet, ask my teacher and friend, but I found nothing. I have to put the defect here since I cannot come up with a solution. I hope maybe I can figure it out one day when I step further into computer graphics.
+
 ## Acknowledgements
 
  - [BVH from my friend Zhanbo](https://github.com/skszb/TracerHW)
