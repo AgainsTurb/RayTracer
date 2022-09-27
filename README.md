@@ -76,7 +76,7 @@ III. Glass balls above mounts to test refraction
 
 ![](mount_Refl.png)
 
-6) + Refraction
+6) + Refraction -this looks weird as well
 
 ![](mount_BVH.png)
 
