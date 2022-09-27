@@ -72,7 +72,7 @@ III. Glass balls above mounts to test refraction
 
 ![](mount_Shadow.png)
 
-5) + reflection 
+5) + reflection -max bounces 5
 
 ![](mount_Refl.png)
 
@@ -98,7 +98,7 @@ IV. Teapot 1 for less details rendering
 
 ![](teapot_Shadow.png)
 
-5) + Reflection
+5) + Reflection -max bounces 5
 
 ![](teapot_BVH.png)
 
@@ -120,7 +120,7 @@ V. Teapot 2 for more details rendering
 
 ![](teapot_1_Shadow.png)
 
-5) + Reflection
+5) + Reflection -max bounces 5
 
 ![](teapot_1_BVH.png)
 
@@ -142,7 +142,7 @@ VI. Teapot 3 for refraction test -I literally have no idea what this scene looks
 
 ![](refract_Shadow.png)
 
-5) + Reflection
+5) + Reflection -max bounces 5
 
 ![](refract_Refl.png)
 
