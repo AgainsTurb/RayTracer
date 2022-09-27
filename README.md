@@ -104,6 +104,26 @@ IV. Teapot 1 for less details rendering
 
 V. Teapot 2 for more details rendering
 
+1) + Diffuse
+
+![](teapot_1_Dif.png)
+
+2) + Specular
+
+![](teapot_1_Spec.png)
+
+3) + Ambient
+
+![](teapot_1_Amb.png)
+
+4) + Shadow
+
+![](teapot_1_Shadow.png)
+
+5) + Reflection
+
+![](teapot_1_BVH.png)
+
 VI. Teapot 3 for refraction test
 
 ## Acknowledgements
